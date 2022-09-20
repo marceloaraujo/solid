@@ -8,7 +8,7 @@ SOLID são 5 princípios de orientação a objetos. Esses princípios podem ser 
 
 ## Vantagens
 
-- Fácil de se manter, adapter e se ajustar as alterações de escopo;
+- Fácil de se manter, adaptar e se ajustar as alterações de escopo;
 - Testável e de fácil entendimento;
 - Extensível para alterações com o menor esforço necessário;
 - Fornecer o máximo de reaproveitamento;
